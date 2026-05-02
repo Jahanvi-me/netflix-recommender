@@ -131,13 +131,13 @@ This app can be deployed easily using **Streamlit Cloud**.
 ## 📸 Preview
 
 ### App Preview
-![App Preview](app_preview.png)
+![App Preview](app_preview.png.png)
 
 ### EDA - Genre Distribution
-![EDA Genre](eda_genre.png)
+![EDA Genre](eda_genre.png.png)
 
 ### EDA - Content Trends
-![EDA Trends](eda_trend.png)
+![EDA Trends](eda_trend.png.png)
 
 ---
 
