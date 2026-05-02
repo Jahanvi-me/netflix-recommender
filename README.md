@@ -116,6 +116,12 @@ streamlit run app.py
 
 ---
 
+## 🌐 Live Demo
+
+https://netflix-recommendation-app.streamlit.app
+
+---
+
 ## 🌐 Deployment
 
 This app can be deployed easily using **Streamlit Cloud**.
@@ -134,6 +140,7 @@ This app can be deployed easily using **Streamlit Cloud**.
 ## 👩‍💻 Author
 
 Jahanvi Sania
+GitHub Profile - https://github.com/Jahanvi-me
 
 ---
 
