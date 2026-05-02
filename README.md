@@ -130,13 +130,16 @@ This app can be deployed easily using **Streamlit Cloud**.
 
 ## 📸 Preview
 
-![App Preview](<img width="953" height="794" alt="app_preview png" src="https://github.com/user-attachments/assets/425b2ced-4c64-48b7-ba61-8b8eaafb8d90" />)
-![EDA_Preview](<img width="618" height="562" alt="eda_genre png" src="https://github.com/user-attachments/assets/e276c90a-0776-45ee-bc1c-f2ff01592574" />)
-![EDA_Trends](<img width="598" height="475" alt="eda_trend png" src="https://github.com/user-attachments/assets/4bd12d41-9b42-465f-bbaa-65448e7e949b" />)
+### App Preview
+![App Preview](app_preview.png)
 
+### EDA - Genre Distribution
+![EDA Genre](eda_genre.png)
 
+### EDA - Content Trends
+![EDA Trends](eda_trend.png)
 
-
+---
 
 ## 🔮 Future Improvements
 
